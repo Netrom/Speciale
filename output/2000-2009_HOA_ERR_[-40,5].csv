@@ -1,0 +1,16 @@
+deal_no,date_announced,iid,msg
+973793020,2000-02-03,777,Gvkey 127175 not listed on date 1999-09-30
+981236020,2000-02-28,777,Gvkey 126459 not listed on date 1999-09-30
+981267020,2000-02-29,777,Gvkey 127399 not listed on date 1999-09-30
+991020020,2000-03-27,70,Unable to get cap from secd 126734
+994809020,2000-04-05,7,Mkt. cap not avaliable for two quarters: 64597
+1003158020,2000-05-05,777,Gvkey 133524 not listed on date 1999-12-31
+1008413020,2000-05-22,777,Gvkey 130049 not listed on date 1999-12-31
+1023743020,2000-07-10,5,Not enough data in estimation window
+1025882020,2000-07-17,7,Mkt. cap not avaliable for two quarters: 23945
+1040498020,2000-08-24,777,Gvkey 135686 not listed on date 2000-03-31
+1226064020,2001-10-01,70,Unable to get cap from secd 64840
+1683942020,2005-08-03,777,Gvkey 160632 not listed on date 2005-04-29
+1686108020,2005-08-10,777,Gvkey 162566 not listed on date 2005-03-31
+1839154020,2007-02-12,7,Mkt. cap not avaliable for two quarters: 147242
+1841390020,2007-02-20,777,Gvkey 176247 not listed on date 2006-09-29

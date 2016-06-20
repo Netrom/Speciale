@@ -1,0 +1,71 @@
+973793020,2000-02-03,7,Unable to get shares outstanding from fundamentals 127282
+979893020,2000-02-22,7,Unable to get shares outstanding from fundamentals 126320
+979995020,2000-02-22,7,Unable to get shares outstanding from fundamentals 127381
+981236020,2000-02-28,7,Unable to get shares outstanding from fundamentals 126459
+981267020,2000-02-29,7,Unable to get shares outstanding from fundamentals 126720
+987011020,2000-03-15,70,Unable to get cap from secd 118322
+991020020,2000-03-27,7,Unable to get shares outstanding from fundamentals 126734
+994758020,2000-04-06,7,Unable to get shares outstanding from fundamentals 1786
+994809020,2000-04-05,7,Unable to get shares outstanding from fundamentals 64597
+999937020,2000-04-18,70,Unable to get cap from secd 112626
+1003158020,2000-05-05,7,Unable to get shares outstanding from fundamentals 133524
+1008326020,2000-05-22,5,Not enough data in estimation window
+1008413020,2000-05-22,7,Unable to get shares outstanding from fundamentals 130049
+1009378020,2000-05-24,70,Unable to get cap from secd 117035
+1011997020,2000-06-06,7,Unable to get shares outstanding from fundamentals 28378
+1013758020,2000-06-08,7,Unable to get shares outstanding from fundamentals 119419
+1013819020,2000-06-08,70,Unable to get cap from secd 127797
+1023743020,2000-07-10,5,Not enough data in estimation window
+1024064020,2000-07-12,7,Unable to get shares outstanding from fundamentals 129083
+1025882020,2000-07-17,7,Unable to get shares outstanding from fundamentals 23945
+1025899020,2000-07-17,70,Unable to get cap from secd 30337
+1040498020,2000-08-24,7,Unable to get shares outstanding from fundamentals 135686
+1044267020,2000-09-07,7,Unable to get shares outstanding from fundamentals 133885
+1045086020,2000-09-11,1,Gvkey -2 has no primary share between 1999-06-10 and 2000-09-11
+1058448020,2000-10-20,70,Unable to get cap from secd 64206
+1061647020,2000-10-31,7,Unable to get shares outstanding from fundamentals 1526
+1064452020,2000-05-08,70,Unable to get cap from secd 24613
+1072098020,2000-12-06,70,Unable to get cap from secd 137410
+1078618020,2000-12-27,7,Unable to get fundamentals prior to deal for gvkey: 17951
+1085392020,2001-01-24,7,Unable to get shares outstanding from fundamentals 116905
+1089708020,2001-02-08,70,Unable to get cap from secd 132498
+1177460020,2001-04-20,5,Not enough data in estimation window
+1191033020,2001-06-05,7,Unable to get shares outstanding from fundamentals 109364
+1191911020,2001-06-11,7,Unable to get shares outstanding from fundamentals 64597
+1197569020,2001-06-27,70,Unable to get cap from secd 136645
+1197854020,2001-06-22,70,Unable to get cap from secd 31604
+1198693020,2001-06-29,7,Unable to get shares outstanding from fundamentals 30229
+1202205020,2001-07-16,7,Unable to get shares outstanding from fundamentals 109366
+1203587020,2001-07-19,2,"Gvkey 31629, iid 02 has 237 obs between 2000-04-14 and 2001-07-19 while the required obs is 250"
+1204678020,2001-07-24,70,Unable to get cap from secd 66102
+1211192020,2001-08-16,70,Unable to get cap from secd 17635
+1217595020,2001-08-28,70,Unable to get cap from secd 107488
+1219691020,2001-09-06,1,Gvkey -2 has no primary share between 2000-06-05 and 2001-09-06
+1226064020,2001-10-01,70,Unable to get cap from secd 64840
+1227235020,2001-10-05,70,Unable to get cap from secd 65133
+1269737020,2002-02-11,70,Unable to get cap from secd 63156
+1275627020,2002-02-27,1,Gvkey -2 has no primary share between 2000-11-15 and 2002-02-27
+1301737020,2002-06-10,7,Unable to get shares outstanding from fundamentals 31720
+1309692020,2002-07-08,5,Not enough data in estimation window
+1333966020,2002-10-08,5,Not enough data in estimation window
+1368202020,2003-02-03,7,Unable to get shares outstanding from fundamentals 149268
+1420800020,2003-08-04,7,Unable to get shares outstanding from fundamentals 12233
+1450950020,2003-11-17,1,Gvkey -2 has no primary share between 2002-08-15 and 2003-11-17
+1452364020,2003-11-20,1,Gvkey -2 has no primary share between 2002-08-20 and 2003-11-20
+1481700020,2004-02-02,7,Unable to get shares outstanding from fundamentals 155393
+1635535020,2005-01-31,1,Gvkey -2 has no primary share between 2003-10-27 and 2005-01-31
+1683942020,2005-08-03,7,Unable to get shares outstanding from fundamentals 160632
+1686108020,2005-08-10,7,Unable to get shares outstanding from fundamentals 162566
+1716375020,2005-12-01,7,Unable to get fundamentals prior to deal for gvkey: 105454
+1722502020,2005-12-21,5,Not enough data in estimation window
+1767051020,2006-06-08,1,Gvkey -2 has no primary share between 2005-03-07 and 2006-06-08
+1801107020,2006-10-10,7,Unable to get shares outstanding from fundamentals 164048
+1839154020,2007-02-12,7,Unable to get shares outstanding from fundamentals 147242
+1841390020,2007-02-20,7,Unable to get shares outstanding from fundamentals 176247
+1952993020,2008-02-15,7,Unable to get shares outstanding from fundamentals 157583
+1976645020,2008-05-09,7,Unable to get shares outstanding from fundamentals 110807
+1999390020,2008-07-28,7,Unable to get shares outstanding from fundamentals 66404
+2001913020,2008-08-05,5,Not enough data in estimation window
+2020753020,2008-10-17,7,Unable to get shares outstanding from fundamentals 28459
+2057196020,2009-03-12,7,Unable to get shares outstanding from fundamentals 156519
+2057398020,2009-03-13,7,Unable to get shares outstanding from fundamentals 28654

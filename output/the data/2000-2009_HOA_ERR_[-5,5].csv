@@ -1,0 +1,40 @@
+deal_no,date_announced,iid,msg
+973793020,2000-02-03,7,Unable to get shares outstanding from fundamentals 127282
+974516020,2000-02-07,7,Unable to get shares outstanding from fundamentals 125595
+974483020,2000-02-07,5,Not enough data in estimation window
+979893020,2000-02-22,7,Unable to get shares outstanding from fundamentals 126320
+979995020,2000-02-22,7,Unable to get shares outstanding from fundamentals 127381
+981236020,2000-02-28,7,Unable to get shares outstanding from fundamentals 126459
+981267020,2000-02-29,7,Unable to get shares outstanding from fundamentals 126720
+991020020,2000-03-27,70,Unable to get cap from secd 126734
+994809020,2000-04-05,7,Unable to get shares outstanding from fundamentals 64597
+994758020,2000-04-06,7,Unable to get shares outstanding from fundamentals 1786
+1003158020,2000-05-05,7,Unable to get shares outstanding from fundamentals 133524
+1008413020,2000-05-22,7,Unable to get shares outstanding from fundamentals 130049
+1008326020,2000-05-22,5,Not enough data in estimation window
+1011997020,2000-06-06,7,Unable to get shares outstanding from fundamentals 28378
+1019581020,2000-06-26,5,Not enough data in estimation window
+1023743020,2000-07-10,5,Not enough data in estimation window
+1024064020,2000-07-12,7,Unable to get shares outstanding from fundamentals 129083
+1025882020,2000-07-17,7,Unable to get shares outstanding from fundamentals 23945
+1029771020,2000-07-26,7,Unable to get shares outstanding from fundamentals 64669
+1040498020,2000-08-24,7,Unable to get shares outstanding from fundamentals 135686
+1044267020,2000-09-07,5,Not enough data in estimation window
+1072098020,2000-12-06,5,Not enough data in estimation window
+1191911020,2001-06-11,7,Unable to get shares outstanding from fundamentals 64597
+1197569020,2001-06-27,70,Unable to get cap from secd 136645
+1226064020,2001-10-01,70,Unable to get cap from secd 64840
+1301737020,2002-06-10,7,Unable to get shares outstanding from fundamentals 31720
+1309692020,2002-07-08,5,Not enough data in estimation window
+1333966020,2002-10-08,5,Not enough data in estimation window
+1337178020,2002-10-22,7,Unable to get shares outstanding from fundamentals 129635
+1368202020,2003-02-03,7,Unable to get shares outstanding from fundamentals 149268
+1420800020,2003-08-04,7,Unable to get shares outstanding from fundamentals 12233
+1481700020,2004-02-02,7,Unable to get shares outstanding from fundamentals 155393
+1683942020,2005-08-03,7,Unable to get shares outstanding from fundamentals 160632
+1686108020,2005-08-10,7,Unable to get shares outstanding from fundamentals 162566
+1722502020,2005-12-21,5,Not enough data in estimation window
+1839154020,2007-02-12,7,Unable to get shares outstanding from fundamentals 147242
+1841390020,2007-02-20,7,Unable to get shares outstanding from fundamentals 176247
+1999390020,2008-07-28,7,Unable to get shares outstanding from fundamentals 66404
+2001913020,2008-08-05,5,Not enough data in estimation window
